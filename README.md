@@ -20,3 +20,5 @@ To visualize and analyze Ecommerce sales data, focusing on:
 8. What is the Sales across the Sates?
 9. What is the YOY Growth?
 10. Which is more contributing Product Category?
+## 🖼️ Dashboard Previews
+- <a href="https://github.com/TousifA07/eCommerce-sales-Analysis-Excel-Dashboard-/blob/main/Dashboard%20Ecommerce%20sales%20Analsis%20.png">View Dashboard</a>
