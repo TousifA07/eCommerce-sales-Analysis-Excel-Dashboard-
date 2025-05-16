@@ -36,4 +36,18 @@ To visualize and analyze Ecommerce sales data, focusing on:
 - **Lay outing**- Aligning and resizing multiple dynamic charts and slicers without breaking the visual balance or overlapping elements
 -**Pivot Table**- Managing multiple pivot tables with shared data sources without breaking links or causing refresh conflicts
 - **User Experience Design**- Creating a visually appealing yet functional layout with clear navigation, tooltips, and slicers for interactivity.
+## 🔍 Dashboard Insights
+- **Sales & Profit Analysis**
+   - Identified monthly eCommerce sales and profit trends, helping identify peak performance periods and profitability shifts over time.
+ - **Sales-By States**
+   - overall sales are low and represents only a few states with strong or moderate sales performance.
+- **Month-Based Trends**
+   - Monthly sales & profit analysis revealed peak purchasing periods, ideal for planning campaigns and inventory.
+- **Category Segmentation**
+   - The Technology category contributes the most to both sales and profit.
+- **Profit Analysis**
+   - States with low sales that are negatively impacting overall profit.
+
+## ✅ Final Conclusion
+The Excel dashboard effectively visualizes key sales and profit insights for the eCommerce company, providing clear identification of areas for improvement. Equipped with intuitive filters and rich visuals, it enables better decision-making across marketing, operations, and product management. Overcoming challenges in data cleaning, calculated fields, and layout design was essential to deliver a performant and insightful final product.
 
