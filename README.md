@@ -6,3 +6,5 @@ To visualize and analyze Ecommerce sales data, focusing on:
 - Sales Percentage of 3 categories 
 - Top-performing products and categories
 - Regional sales distribution
+## 📁 Dataset Used 
+ - <a href="[https://github.com/Rupali-2001/-BigBasket-Sales-Analysis/blob/main/bigbasket_orders_dataset.csv](https://github.com/TousifA07/eCommerce-sales-Analysis-Excel-Dashboard-/blob/main/Ecommerce%20Sales%20Analysis%20Data.xlsx)">Dataset</a>
