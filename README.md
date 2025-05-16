@@ -8,3 +8,15 @@ To visualize and analyze Ecommerce sales data, focusing on:
 - Regional sales distribution
 ## 📁 Dataset Used 
  - <a href="https://github.com/TousifA07/eCommerce-sales-Analysis-Excel-Dashboard-/blob/main/Ecommerce%20Sales%20Analysis%20Data.xlsx">Dataset</a>
+## 📌 Key Business Questions Answered
+
+1. What is the total Sales across product categories?
+2. What is the total Profit across product categories?
+3. What is the total order count & quantity?
+4. Who are the top 5 revenue-generating products?
+5. Which are the profitable Categories?
+6. What is the total Profit margin?
+7. What is the monthly trend in sales and Profit?
+8. What is the Sales across the Sates?
+9. What is the YOY Growth?
+10. Which is more contributing Product Category?
