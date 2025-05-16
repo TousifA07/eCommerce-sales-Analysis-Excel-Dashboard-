@@ -22,3 +22,12 @@ To visualize and analyze Ecommerce sales data, focusing on:
 10. Which is more contributing Product Category?
 ## 🖼️ Dashboard Previews
 - <a href="https://github.com/TousifA07/eCommerce-sales-Analysis-Excel-Dashboard-/blob/main/Dashboard%20Ecommerce%20sales%20Analsis%20.png">View Dashboard</a>
+## 📌 Tools Used
+- MS Excel 
+- Power query for data cleaning
+- Pivot table & filters 
+- Calculated Field
+- Lay outing
+- YoY calculation
+- Sparklines
+- Custom Maps & Custom Charts
