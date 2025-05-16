@@ -33,7 +33,7 @@ To visualize and analyze Ecommerce sales data, focusing on:
 - Custom Maps & Custom Charts
   ## 🚧 Challenges Faced
 -  **Data Cleaning in Power Query**- The raw dataset had inconsistencies, null values, and formatting issues that needed to be resolved using Power Query before Preparing the dashboard.
-- ** Lay outing **- Aligning and resizing multiple dynamic charts and slicers without breaking the visual balance or overlapping elements
+- **Lay outing**- Aligning and resizing multiple dynamic charts and slicers without breaking the visual balance or overlapping elements
 -**Pivot Table**- Managing multiple pivot tables with shared data sources without breaking links or causing refresh conflicts
 - **User Experience Design**- Creating a visually appealing yet functional layout with clear navigation, tooltips, and slicers for interactivity.
 
